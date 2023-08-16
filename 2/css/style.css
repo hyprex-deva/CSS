@@ -1,0 +1,42 @@
+/* * {
+    font-family: monospace;
+    border: 1px solid red;
+} */
+
+body {
+    font-size: 22px;
+    border: 2px solid black;
+}
+
+header {
+    font-family: monospace;
+}
+
+main {
+    font-family: Arial;
+}
+
+h1,h2 {
+    color: blue;
+}
+
+/* h2 {
+    color: brown;
+} */
+
+p {
+    color: purple;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: lime;
+}
+
+#second {
+    font-style: italic;
+}

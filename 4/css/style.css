@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    border: 2px dashed red;
+    width: 80%;
+    font-size: 3rem;
+    padding: 0.5rem;
+}
+
+main {
+    width: 80%;
+    background-color: aqua;
+    font-size: 2rem;
+}
+
+p {
+    font-size: 2rem;
+    width: 20ch;
+}
